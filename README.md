@@ -29,8 +29,17 @@ New-Wheels has experienced a decline in sales and customer satisfaction. The CEO
 - **Database:** Simulated company database with customer, order, and product data.
 
 ## Business Metrics Summary
-**Metric**               **Value**
-Total Revenue        fsfd
+
+| Metric                    | Value            |
+|---------------------------|------------------|
+| **Total Revenue**         | $48,611,933.78   |
+| **Total Orders**          | 1,000            |
+| **Total Customers**       | 133              |
+| **Average Rating**        | 2.75             |
+| **Last Quarter Revenue**  | $8,573,149.28    |
+| **Last Quarter Orders**   | 199              |
+| **Average Days to Ship**  | 105              |
+| **% Good Feedback**       | 20.46%           |
 
 ## Insights and Recommendations
 - **Improve Shipping Times:** Current average shipping times are too high. Aim for 50-60 days.
