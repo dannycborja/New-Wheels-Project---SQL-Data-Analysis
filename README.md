@@ -29,6 +29,8 @@ New-Wheels has experienced a decline in sales and customer satisfaction. The CEO
 - **Database:** Simulated company database with customer, order, and product data.
 
 ## Business Metrics Summary
+**Metric**               **Value**
+Total Revenue        fsfd
 
 ## Insights and Recommendations
 - **Improve Shipping Times:** Current average shipping times are too high. Aim for 50-60 days.
